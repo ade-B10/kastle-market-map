@@ -1,0 +1,4 @@
+source/
+_tmp_encrypted/
+.DS_Store
+node_modules/
